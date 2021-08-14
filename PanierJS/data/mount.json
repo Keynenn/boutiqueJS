@@ -1,0 +1,88 @@
+{
+    "article" : [
+
+        {"name": "Navrecorne",
+        "description" : "Dino du turfu",
+        "image" :"data/images/13.jpg",
+        "imagemini" :"data/images/13-mini.jpg",
+        "price":"75000"
+        },
+
+        {"name": "Faucon gangrené",
+            "description" : "Faucon vert mon pote",
+            "image" :"data/images/14.jpg",
+            "imagemini" :"data/images/14-mini.jpg",
+            "price":"360000"
+        },
+
+        {"name": "Serpent-nuage de jade",
+            "description" : "Magnifique serpent de jade",
+            "image" :"data/images/15.jpg",
+            "imagemini" :"data/images/15-mini.jpg",
+            "price":"9500"
+        },
+
+        {"name": "Tigre Zulien",
+            "description" : "Tigre du bengal",
+            "image" :"data/images/16.jpg",
+            "imagemini" :"data/images/16-mini.jpg",
+            "price":"700000"
+        },
+
+        {"name": "Rênes d'invincible",
+            "description" : "Ch'val du roi liche",
+            "image" :"data/images/17.jpg",
+            "imagemini" :"data/images/17-mini.jpg",
+            "price":"1890000"
+        },
+
+        {"name": "Serpent-nuage du sha",
+            "description" : "Serpent violet du sha",
+            "image" :"data/images/18.jpg",
+            "imagemini" :"data/images/18-mini.jpg",
+            "price":"1620000"
+        },
+
+        {"name": "Drago-néant",
+            "description" : "Dragon du turfu",
+            "image" :"data/images/19.jpg",
+            "imagemini" :"data/images/19-mini.jpg",
+            "price":"440000"
+        },
+
+        {"name": "Licorne lucide",
+            "description" : "Licorne du cauchemar",
+            "image" :"data/images/20.jpg",
+            "imagemini" :"data/images/20-mini.jpg",
+            "price":"165000"
+        },
+
+        {"name": "Cochon porte-bonheur",
+            "description" : "Cochon tirelire",
+            "image" :"data/images/21.jpg",
+            "imagemini" :"data/images/21-mini.jpg",
+            "price":"3000000"
+        },
+
+        {"name": "Renard des neiges",
+            "description" : "Sneaky renard",
+            "image" :"data/images/22.jpg",
+            "imagemini" :"data/images/22-mini.jpg",
+            "price":"6500000"
+        },
+
+        {"name": "Felin de suramar",
+            "description" : "Félin énervé",
+            "image" :"data/images/23.jpg",
+            "imagemini" :"data/images/23-mini.jpg",
+            "price":"600000"
+        },
+
+        {"name": "Gobbax",
+            "description" : "Crapaud de mort",
+            "image" :"data/images/24.jpg",
+            "imagemini" :"data/images/24-mini.jpg",
+            "price":"1200000"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "article" : [
+
+        {"name": "Figurine 1",
+        "description" : "DBZ",
+        "image" :"data/images/1.jpg",
+        "imagemini" :"data/images/1-mini.jpg",
+        "price":"38"
+        },
+
+        {"name": "Figurine 2",
+            "description" : "STARWARS",
+            "image" :"data/images/2.jpg",
+            "imagemini" :"data/images/2-mini.jpg",
+            "price":"9"
+        },
+
+        {"name": "Figurine 3",
+            "description" : "Alien",
+            "image" :"data/images/3.jpg",
+            "imagemini" :"data/images/3-mini.jpg",
+            "price":"79"
+        },
+
+        {"name": "Figurine 4",
+            "description" : "FORTNITE",
+            "image" :"data/images/4.jpg",
+            "imagemini" :"data/images/4-mini.jpg",
+            "price":"25"
+        },
+
+        {"name": "Figurine 5",
+            "description" : "DEATH NOTE",
+            "image" :"data/images/5.jpg",
+            "imagemini" :"data/images/5-mini.jpg",
+            "price":"40"
+        },
+
+        {"name": "Figurine 6",
+            "description" : "OPC",
+            "image" :"data/images/6.jpg",
+            "imagemini" :"data/images/6-mini.jpg",
+            "price":"110"
+        },
+
+        {"name": "Figurine 7",
+            "description" : "DBZ",
+            "image" :"data/images/7.jpg",
+            "imagemini" :"data/images/7-mini.jpg",
+            "price":"30"
+        },
+
+        {"name": "Figurine 8",
+            "description" : "OPC",
+            "image" :"data/images/8.jpg",
+            "imagemini" :"data/images/8-mini.jpg",
+            "price":"50"
+        },
+
+        {"name": "Figurine 9",
+            "description" : "DBZ",
+            "image" :"data/images/9.jpg",
+            "imagemini" :"data/images/9-mini.jpg",
+            "price":"39"
+        },
+
+        {"name": "Figurine 10",
+            "description" : "OPC",
+            "image" :"data/images/10.jpg",
+            "imagemini" :"data/images/10-mini.jpg",
+            "price":"89"
+        },
+
+        {"name": "Figurine 11",
+            "description" : "AUTRES",
+            "image" :"data/images/11.jpg",
+            "imagemini" :"data/images/11-mini.jpg",
+            "price":"144"
+        },
+
+        {"name": "Figurine 12",
+            "description" : "VENOM",
+            "image" :"data/images/12.jpg",
+            "imagemini" :"data/images/12-mini.jpg",
+            "price":"25"
+        }
+    ]
+}

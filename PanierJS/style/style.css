@@ -1,0 +1,149 @@
+html,body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+.container{
+    padding-left : 100px;
+    padding-right : 100px;
+    display : inline-block;
+    margin : 0;
+}
+/* ==========================================================================
+   Catalogue
+   ========================================================================== */
+
+h2,.product h1, h2 a,.lead a,.product h1 a {
+	color: #DF760D;
+    font-size: 130%;
+    font-weight: normal;
+}
+.price small {
+    margin : 15px;
+	color: #cf1111;
+	text-decoration: line-through;
+}
+.article {
+	border: 1px solid #DF760D;
+	font-family: times new roman,times,serif;
+}
+.article > h3 {
+	float: right;
+	text-transform: capitalize;
+}
+.article .chapeau {
+	font-weight: bold;
+}
+.descri{
+    color : #AFA018;
+    font-size : 19px;
+    font-weight: normal;
+}
+
+.fa-gift{
+    width: 110px;
+}
+
+.imageSize{
+ height: 120px;
+ width: 200px;
+}
+
+.selectqt{
+    width: 135px;
+    margin-bottom : 10px;
+}
+
+
+/* Produit */
+.product {
+	border: 1px dashed #DF760D;
+    border-radius: 4px;
+    display : inline-block;
+    margin: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.product:hover {
+	box-shadow: 1px 6px 17px #7e7e7e;
+	transform: scale(1.01);
+}
+.product h1 a {
+	font-size: 105%;
+}
+.product .price {
+    color : #AFA018;
+	margin-top: 7px;
+}
+
+/* ==========================================================================
+   Panier
+   ========================================================================== */
+.monPanier{
+ margin-top : 75px;
+ position: fixed;
+ top: 0;
+ right: 0;
+ width: 25%;
+}
+
+#Arts{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#Arts li{
+    display: inline-block;
+}
+  
+.catalogue{
+    padding-left : 75px;
+    width: 75%;
+    display : inline-block;
+}
+.delete-item {
+	cursor: pointer;
+}
+.image{
+    text-align:center;
+}
+
+body{
+    background-image: url("images/fond.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.prix{
+    color : #AFA018;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom : 15px;
+}
+
+.titre{
+    color: #DF760D;
+}
+
+.articlePanier{
+    border: 1px dashed #DF760D;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+hr{
+    border: 1px dashed #DF760D;
+    margin : 0;
+}
+
+.prixTotal{
+    border: 1px dashed #DF760D;
+    width: 100%;
+    color: #DF760D;
+    font-size : 24px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
